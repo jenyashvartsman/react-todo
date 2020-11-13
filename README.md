@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# Todo List (React)
 
-Simpler Todo List React app.
-Based on Youtube tutorial: [https://www.youtube.com/watch?v=hQAHSlTtcmY](Learn React In 30 Minutes)
+Simple Todo List React app.
+Based on Youtube tutorial 
+[Learn React In 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 
 ## Available Scripts
 
